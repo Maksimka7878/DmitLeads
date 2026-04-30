@@ -22,7 +22,7 @@ const TestPacket: React.FC = () => {
             <div className="flex-1">
                 <div className="inline-flex items-center gap-2 bg-white/10 border border-white/30 text-indigo-50 px-5 py-2 rounded-full text-xs font-bold uppercase tracking-widest backdrop-blur-md mb-8 shadow-inner box-border">
                     <Sparkles className="w-3.5 h-3.5 text-yellow-300" />
-                    Special Offer
+                    Специальное предложение
                 </div>
 
                 <h3 className="text-4xl md:text-5xl font-black text-transparent bg-clip-text bg-gradient-to-b from-white to-indigo-200 mb-6 drop-shadow-sm">
@@ -76,14 +76,14 @@ const TestPacket: React.FC = () => {
             <div className="flex flex-col items-center md:items-end gap-8 min-w-[280px] bg-white/5 p-8 rounded-3xl border border-white/10 backdrop-blur-sm">
                 <div className="text-center md:text-right w-full">
                     <div className="relative mb-2 inline-block text-xl font-semibold text-indigo-100/90">
-                        <span>25 000 ₽</span>
+                        <span>35 000 ₽</span>
                         <span className="pointer-events-none absolute left-0 right-0 top-1/2 h-[2.5px] -translate-y-1/2 rounded-full bg-rose-200/95 shadow-[0_0_10px_rgba(254,202,202,0.4)]" />
                     </div>
                     <div
                         className="text-5xl md:text-6xl text-white tracking-tighter drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)]"
                         style={{ fontWeight: 860 }}
                     >
-                        15 000 ₽
+                        20 000 ₽
                     </div>
                 </div>
 
