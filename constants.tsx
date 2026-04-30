@@ -18,7 +18,7 @@ export const PRICING_DATA: MarketCategory[] = [
     title: 'Вторичная недвижимость',
     tiers: [
       { name: 'Стандарт', description: 'Запрос 20–60 млн ₽', price: 2500 },
-      { name: 'Премиум', description: 'Запрос от 60 млн ₽', price: 4000 },
+      { name: 'Премиум', description: 'Запрос от 60 млн ₽', price: 5000 },
     ]
   },
   {
