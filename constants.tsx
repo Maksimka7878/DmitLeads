@@ -27,6 +27,7 @@ export const PRICING_DATA: MarketCategory[] = [
     tiers: [
       { name: 'Офисы класса А', description: 'Запрос от 50 млн ₽', price: 21000 },
       { name: 'Офис класса Б', description: 'Запрос 20–50 млн ₽', price: 14000 },
+      { name: 'Ритейл', description: 'Торговые помещения', price: 7000 },
     ]
   }
 ];
